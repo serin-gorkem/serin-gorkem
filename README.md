@@ -50,7 +50,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/serin-gorkem/serin-gorkem/output/snake.svg" alt="Snake animation" />
-
-###
